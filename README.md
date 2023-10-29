@@ -5,7 +5,7 @@ An EDA Project related to Kenya's Mobile Money Payments Data executed in Python.
 
 ## Mobile Money Payments in Kenya
 
-In Kenya, mobile money payments is ubiquitous as beer(_**cold Tusker**_) is to an Kenyan footbal fanatic. The cradle of mobile payments can be traced to Kenya, when Safaricom (Kenya's leading telecommunications network) gave birth to M-Pesa in 2007. 
+In Kenya, mobile money payments is ubiquitous as beer(_**cold Tusker**_) is to an Kenyan football fanatic. The cradle of mobile payments can be traced to Kenya, when Safaricom (Kenya's leading telecommunications network) gave birth to M-Pesa in 2007. 
 
 Back then, the goal of the newborn was facilitate sending of money to friends and family residing in rural areas. The newborn's growth, 15 years later has resulted to:
 
