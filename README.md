@@ -29,7 +29,7 @@ Some of the features of mobile money payments in Kenya are:
 - **Interoperability**: Mobile money customers can send and receive money across diferent networks in real time, thanks to the full [interoperability of mobile money services]( https://www.centralbank.go.ke/wp-content/uploads/2023/02/Kenyas-Payments-Journey.pdf) that was announced by the Central Bank of Kenya in September 2022.
 - **International remittances**: Mobile money customers can also send and receive money from abroad through various international remittance partners, such as WorldRemit, Western Union, MoneyGram, and PayPal.
 - **Financial inclusion**: Mobile money has enabled millions of Kenyans who do not have bank accounts or have limited access to banking services to access financial services such as savings, loans, insurance, and investments through their mobile phones.
-- **Government payments**: Mobile money has also facilitated the payment of taxes, fees, fines, and other government services by citizens and businesses [through platforms such as KRA iTax](https://www.nelito.com/blog/everything-you-need-to-know-about-mobile-money-in-kenya.html.), eCitizen, and Huduma Number.
+- **Government payments**: Mobile money has also facilitated the payment of taxes, fees, fines, and other government services by citizens and businesses through platforms such as KRA iTax, eCitizen, and Huduma Number.
 - **Innovation and growth**: Mobile money has driven innovation and growth in various sectors of the economy, such as agriculture, health, education, and e-commerce, by providing a safe, secure, and affordable way of paying for goods and services.
 
 
