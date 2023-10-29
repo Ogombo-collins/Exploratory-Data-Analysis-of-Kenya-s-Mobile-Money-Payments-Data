@@ -54,8 +54,8 @@ Conducting EDA helps data scientists,machine learning engineers and data analyst
 
 1. Aquiring insights into [underlying trends and patterns](https://www.knowledgehut.com/blog/data-science/eda-data-science)
 2. Increase understanding of data features and how they relate to each other
-3. Optimize data-driven decsions by improving data understanding
-4. Deriving better questions that are relvenat to our data and business challenge.
+3. Optimize data-driven decisions by improving data understanding
+4. Deriving better questions that are relevant to our data and business challenge.
 
 The key elements that will be discussed in our EDA of Kenyan Mobile Payments dataset include:
 
@@ -87,10 +87,10 @@ The key elements that will be discussed in our EDA of Kenyan Mobile Payments dat
 
 ## Types of Exploratory Data Analysis
 
-Types of Exploratory data analysis can be cetgorized into two major categories:
+Types of Exploratory data analysis can be categorized into two major categories:
 
 - Graphical EDA versus Non-graphical EDA
-- Core Types of EDA based on Graphical and Non-garphical EDA
+- Core Types of EDA based on Graphical and Non-graphical EDA
 
 
 ### Graphical EDA versus Non-graphical EDA
@@ -127,7 +127,7 @@ The key steps executed in our Exploratory Data Analysis Process include:
 1. Data Collection: Sourcing the data from different sources, verifying accuracy and storing it in the approriate structure
 2. Importing Python libraries
 3. Reading Dataset: Loading dataset into the notebook as a Pandas DataFrame
-4. Data Understanding:  Inspecting the structure of the dataset with the aim of undertsanding the shape of our dataset, features(variables),data types, missing values and duplicated values
+4. Data Understanding:  Inspecting the structure of the dataset with the aim of understanding the shape of our dataset, features(variables),data types, missing values and duplicated values
 5. Data Pre-processing: Depending on results of understanding the dataset, we can clean and wrangle our dataset
 6. Univariate Analysis: Graphically and non-graphically
 7. Multivariate Analysis: Graphically and non-graphically
