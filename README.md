@@ -133,4 +133,28 @@ The key steps executed in our Exploratory Data Analysis Process include:
 7. Multivariate Analysis: Graphically and non-graphically
 8. Answering Key Questions linked to the dataset
 
-   Analysis was condcted on Jupyter notebook. You can access the notebook by clicking here
+
+ Analysis was done on Jupyter notebook. You can access it [here](https://github.com/Ogombo-collins/Exploratory-Data-Analysis-of-Kenya-s-Mobile-Money-Payments-Data/blob/main/EDA%20of%20Mobile%20Money%20Payments%20in%20Kenya/notebook.ipynb)
+
+
+## Conclusion
+
+Exploratory Data Analysis process is the cornerstone for any data analysis project. It facilitates understanding of the data structure, identification of trends, patterns and outliers. EDA can be performed using graphical or non-graphical techniques.
+
+**Growth of Mobile Payments in Kenya**
+
+Based on the EDA performed on mobile payments data, several insights regarding the growth of mobile payments in Kenya were obtained. 
+
+They include:
+
+_Note: The growth of mobile money payments timeline is 17 years(January 2007 to August 2023)_
+
+
+
+1.  The number of active agents in Kenya increased by **334,419**. This represents a percentage increase of **108,931.30%**.
+2.  The number of registered mobile money accounts in Kenya increased by **77.53 Million**. This represents a percentage increase of **369,326.40%**.
+3. The volume of mobile money transactions in Kenya increased by **208.59 million**. This represents percentage increase **96,016.60%**.
+4. The monetary value of mobile money transactions in Kenya increased by **KES 722.46 billion**. This represents a percentage increase of **1.12 Million%**.
+
+
+ 
